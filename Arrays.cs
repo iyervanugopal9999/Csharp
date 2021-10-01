@@ -10,6 +10,10 @@ namespace ArrayApplication {
          for ( i = 0; i < 10; i++ ) {
             n[ i ] = i + 100;
          }
+         while(i < 10)
+{0
+  i++;
+}
          
          /* output each array element's value */
          for (j = 0; j < 10; j++ ) {
